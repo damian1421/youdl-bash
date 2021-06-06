@@ -1,4 +1,4 @@
-# youdl-bash
+# youdl-sh
 GUI para youtube-dl (Linux/Termux)
 
 #Prerrequisites & Installation
